@@ -1,4 +1,4 @@
-package com.example.ukhyl.application;
+package com.example.ukhyl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
